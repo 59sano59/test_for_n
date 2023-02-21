@@ -1,0 +1,36 @@
+{
+    "radio1": {
+        "testlineId": 54,
+        "resultId": 66,
+        "timestamp": "2023-02-19,20:59:11.167496",
+        "moduleName": "814-01-7263",
+        "serialNumber": "135-69-7381",
+        "featureId": 10,
+        "btsConfigBlockId": 58,
+        "platformName": "694-43-3864",
+        "bracketSlot": "692-26-5605",
+        "moduleType": "RU",
+        "infoModelObjectId": 56,
+        "memory": 89,
+        "cpu": 400,
+        "temperature": 135,
+        "power": 313
+    },
+    "radio2": {
+        "testlineId": 60,
+        "resultId": 88,
+        "timestamp": "2023-02-19,20:59:11.167566",
+        "moduleName": "650-73-8362",
+        "serialNumber": "171-89-7126",
+        "featureId": 45,
+        "btsConfigBlockId": 35,
+        "platformName": "363-08-5042",
+        "bracketSlot": "174-23-1295",
+        "moduleType": "RU",
+        "infoModelObjectId": 4,
+        "memory": 59,
+        "cpu": 518,
+        "temperature": 37,
+        "power": 472
+    }
+}
